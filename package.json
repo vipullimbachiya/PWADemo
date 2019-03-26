@@ -40,9 +40,5 @@
     "ReactJS"
   ],
   "author": "Vipul Limbachiya",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vipullimbachiya/PWADemo/issues"
-  },
-  "homepage": "https://github.com/vipullimbachiya/PWADemo#readme"
+  "license": "MIT"
 }
