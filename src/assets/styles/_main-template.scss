@@ -1,0 +1,11 @@
+.main-template {
+  height: 100%;
+  .offline {
+    width: 100%;
+    color: red;
+  }
+  > main {
+    height: calc(100% - 56px);
+    overflow: auto;
+  }
+}
